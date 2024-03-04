@@ -1,0 +1,10 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Gallery Section */
+.gallery .grid-container {
+    display: grid;
+    gap: 20px;
+    justify-content: start;
+}
+
